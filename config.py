@@ -1,4 +1,4 @@
 def aa():
-	print(1)
+	print(2)
 
 aa()
